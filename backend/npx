@@ -1,0 +1,20 @@
+
+Creating a new React app in C:\Shweta\react\backend\to-do-app.
+
+Installing packages. This might take a couple of minutes.
+Installing react, react-dom, and react-scripts with cra-template...
+
+You appear to be offline.
+Falling back to the local Yarn cache.
+
+yarn add v1.22.4
+[1/4] Resolving packages...
+info Visit https://yarnpkg.com/en/docs/cli/add for documentation about this command.
+
+Aborting installation.
+  yarnpkg add --exact --offline react react-dom react-scripts cra-template --cwd C:\Shweta\react\backend\to-do-app has failed.
+
+Deleting generated file... package.json
+Deleting generated file... yarn.lock
+Deleting to-do-app/ from C:\Shweta\react\backend
+Done.
